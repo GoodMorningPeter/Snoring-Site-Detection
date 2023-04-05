@@ -1,5 +1,5 @@
 # Snoring-Site-Detection with GAN
 
-![image-20230405111106412](C:\Users\luo\AppData\Roaming\Typora\typora-user-images\image-20230405111106412.png)
+![image-20230405111106412](https://github.com/GoodMorningPeter/Snoring-Site-Detection/blob/main/img/result.png)
 
 To be update.
